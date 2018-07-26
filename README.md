@@ -1,0 +1,2 @@
+# SparticBot
+bot
